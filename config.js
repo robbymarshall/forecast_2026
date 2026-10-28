@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   // The name shown at the top of your site. A nickname or made-up forecaster
   // name is fine and recommended. Do not put your real name, email, photo,
   // or anything else that identifies you on this site.
-  forecaster_name: "",
+  forecaster_name: "Nate Silver 2.0",
 
   // One short line under the name (optional).
   tagline: "",
@@ -25,7 +25,8 @@ window.SITE_CONFIG = {
   //   "A fundamentals-only model (no polls). Each race's predicted Democratic share combines the district's partisan lean, incumbency, and a forecast of the national House vote from presidential approval, gas prices, income and the midterm penalty.",
   //   "Uncertainty combines one national error shared by every race with a separate error for each race. Seat totals come from 10,000 simulated elections.",
   method: [
-    "",
+    "My model uses a national democrat vote share, a district leaning and race-specific effects to estimate the democrat two-party vote share and win-probability for each race. This model includes economic data, polling data, demographic data, and past election results. The simulations are based off of 10,000 simulated elections and incorperate the error from the national prediction and race-specific error". 
+",
     ""
   ],
 
