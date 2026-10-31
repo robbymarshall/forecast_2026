@@ -26,9 +26,9 @@ window.SITE_CONFIG = {
   //   "Uncertainty combines one national error shared by every race with a separate error for each race. Seat totals come from 10,000 simulated elections.",
   
   method: [
-    "My model uses a national democrat vote share, a district leaning and race-specific effects to estimate the democrat two-party vote share and win-probability for each race. This model includes economic data, polling data, demographic data, and past election results.",
-    "The simulations are based off of 10,000 simulated elections and incorperate the error from the national prediction and race-specific error. My model considers the following races the closest in terms of the two-party vote share closest to 50%: the Texas Senate race, which my model predicts will be determined by under 3,000 votes, Colorado’s 8th Congressional district, Iowa’s 2nd Congressional district, Iowa’s 3rd Congressional district and Florida’s 9th Congressional District.",
-    "For the control of the Senate, my model predicts that the closest 3 Senate seats that the Democrats would need to win for a majority are Texas (predicted 50% R win), Ohio (predicted 57% R win) and Alaska (63% R win). If everyone votes as my model predicts, 27,000 voters changing their votes would mean the Senate is controlled by Democrats, assuming 50% turnout."
+    "My model uses a national Democrat vote share, a district leaning and race-specific effects to estimate the Democrat two-party vote share and win-probability for each race. This model includes economic data, polling data, demographic data, and past election results.",
+    "The simulations are based on 10,000 simulated elections and incorperate the error from the national prediction and race-specific error. My model considers the following races to have two-party vote shares closest to 50%: the Texas Senate race, which my model predicts will be determined by under 3,000 votes, Colorado’s 8th Congressional District, Iowa’s 2nd Congressional District, Iowa’s 3rd Congressional District and Florida’s 9th Congressional District.",
+    "For the control of the Senate, my model predicts that the closest 3 Senate seats that the Democrats would need to win for a majority are Texas (predicted 50% R win), Ohio (predicted 57% R win) and Alaska (63% R win). According to my model and 50% turnout, if 27,000 voters change their votes it would mean the Senate is controlled by Democrats."
   ],
 
 
